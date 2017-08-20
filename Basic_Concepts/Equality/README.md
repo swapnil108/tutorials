@@ -10,11 +10,11 @@ Equality is when we use comparison  operators to find out if both left and right
 
 ## Comparison, (and logical), Operators
 
-In the code that we used  
-  
+In the code that we usedfgfgfgfgfdfdf  
+  gfgsfdffggfg
 
     var a = '26';
-    var b = 26;
+    var b = 26;dfasdfsadsdfsdaf
     
     console.log(a==b); // true (only checks value)
     console.log(a===b); // false (compares type as well)
